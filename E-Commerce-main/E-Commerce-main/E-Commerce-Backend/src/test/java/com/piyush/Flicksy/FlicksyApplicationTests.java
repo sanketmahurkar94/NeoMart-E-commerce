@@ -1,4 +1,4 @@
-package com.piyush.Flicksy;
+package com.Sanket.Neo_Mart;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
